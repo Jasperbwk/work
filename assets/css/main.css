@@ -3574,7 +3574,12 @@ input, select, textarea {
 				}
 
 		}
-
+		.halfscreen { 
+			min-height: 50vh;	
+		}
+		.mostscreen { 
+			min-height: 75vh;	
+		} 
 		.banner.style1.fullscreen {
 			min-height: 100vh;
 		}

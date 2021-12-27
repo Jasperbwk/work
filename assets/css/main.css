@@ -6378,6 +6378,10 @@ input, select, textarea {
 		background-color: transparent;
 	}
 
+	.gallery article { 
+			padding: 10px;
+		 }
+
 		.gallery.style1 input, .gallery.style1 select, .gallery.style1 textarea {
 			color: #ffffff;
 		}

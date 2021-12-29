@@ -152,7 +152,7 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: #ffffff;
+		background: linear-gradient(90deg, #869CB3 0%, #A1796F 98.96%);
 		color: #000000;
 	}
 

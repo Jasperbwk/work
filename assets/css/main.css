@@ -28,14 +28,6 @@ section, summary, time, mark, audio, video {
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
-@font-face {
-	font-family: "National";
-	font-weight: normal;
-	src:url(//assets/webfonts/national-book-webfont.woff);
-}
-*{
-	font-family: "National";
-}
 body {
 	line-height: 1;
 }

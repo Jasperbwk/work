@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'nationalbold';
-    src: url('national-bold-webfont.woff2') format('woff2'),
-         url('national-bold-webfont.woff') format('woff');
+    src: url(//assets/webfonts/national-bold-webfont.woff2) format('woff2'),
+         url(//assets/webfonts/national-bold-webfont.woffnational-bold-webfont.woff) format('woff');
     font-weight: normal;
     font-style: normal;
 

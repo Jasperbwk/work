@@ -2113,8 +2113,8 @@ input, select, textarea {
 		font-weight: 400;
 		letter-spacing: 0.125em;
 		text-align: center;
+		font-family: 'nationalbold';
 		text-decoration: none;
-		text-transform: uppercase;
 		white-space: nowrap;
 		font-size: 0.75rem;
 		max-width: 20rem;

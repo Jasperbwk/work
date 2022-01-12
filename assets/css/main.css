@@ -31,7 +31,11 @@ footer, header, hgroup, menu, nav, section {
 @font-face {
 	font-family: "National";
 	font-weight: normal;
-	src:url(//assets/webfonts/national-book-webfont.woff)
+	src:url(//assets/webfonts/national-book-webfont.woff);
+}
+*{
+	font-family: "National";
+}
 body {
 	line-height: 1;
 }

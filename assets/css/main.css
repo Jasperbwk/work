@@ -243,7 +243,7 @@ input, select, textarea {
 		top: 0.5rem;
 	}
 	/*I added this one to try and make a smaller font that i can use to add context to the projects -Jasper 
-	Ya it did not work i Just want a small non bold italic */
+	Ya it did not work i Just want a small non bold italic 
 	minor {
 		font-weight: 700;
 		line-height: 1.375;
@@ -251,7 +251,7 @@ input, select, textarea {
 		margin: 0 0 1rem 0;
 		font-family: 'nationalregular_italic', Helvetica, sans-serif;
 		font-size: 0.5;
-	} 
+	} */
 
 	sup {
 		font-size: 0.8rem;

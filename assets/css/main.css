@@ -3607,11 +3607,11 @@ input, select, textarea {
 			@media screen and (orientation: portrait) {
 
 				.banner.style1.fullscreen .content {
-					min-height: 50vh;
+					min-height: 25vh;
 				}
 
 				.banner.style1.fullscreen .image {
-					height: 50vh;
+					height: 75vh;
 				}
 
 			}
